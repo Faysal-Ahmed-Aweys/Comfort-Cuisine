@@ -2,7 +2,7 @@
 name: Epic
 about: Custom Template for project epics
 title: 'EPIC: <TITLE>'
-labels: ''
+labels: Epic
 assignees: ''
 
 ---
