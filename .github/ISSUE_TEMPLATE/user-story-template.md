@@ -2,7 +2,7 @@
 name: User story template
 about: Custom Template for the project user stories
 title: 'USER STORY: <TITLE>'
-labels: ''
+labels: Epic
 assignees: ''
 
 ---
